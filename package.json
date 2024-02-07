@@ -1,0 +1,30 @@
+{
+    "name": "eye-open-css",
+    "version": "1.0.0",
+    "description": "Eye-Icon, drawn with CSS only and open/close transition.",
+    "main": "index.html",
+    "scripts": {
+      "start": "serve",
+      "build": "echo This is a static template, there is no bundler or bundling involved!"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/codesandbox-app/static-template.git"
+    },
+    "keywords": [
+      "transistion",
+      "icon",
+      "hover",
+      "eye",
+      "css"
+    ],
+    "author": "Ives van Hoorne",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/codesandbox-app/static-template/issues"
+    },
+    "homepage": "https://github.com/codesandbox-app/static-template#readme",
+    "devDependencies": {
+      "serve": "^11.2.0"
+    }
+  }
